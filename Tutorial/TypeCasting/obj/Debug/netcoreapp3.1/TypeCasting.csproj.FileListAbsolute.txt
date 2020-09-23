@@ -1,0 +1,12 @@
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.exe
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.deps.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.dll
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.pdb
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.dll
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.pdb
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.genruntimeconfig.cache

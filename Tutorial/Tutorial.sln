@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial", "Tutorial\Tutori
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetStarted", "GetStarted\GetStarted.csproj", "{7B4C507A-FBFB-4482-8200-31BDCFCCC8B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syntax", "Syntax\Syntax.csproj", "{AB15EA29-65E0-417B-B41E-9FD837E75B13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Syntax", "Syntax\Syntax.csproj", "{AB15EA29-65E0-417B-B41E-9FD837E75B13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comments", "Comments\Comments.csproj", "{CDFA9251-AD29-4CA9-B488-E06A228E45B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Comments", "Comments\Comments.csproj", "{CDFA9251-AD29-4CA9-B488-E06A228E45B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{9358F8B3-E13B-48E7-9892-494B807D8183}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "Variables\Variables.csproj", "{9358F8B3-E13B-48E7-9892-494B807D8183}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\DataTypes.csproj", "{8E07C35A-6F19-403F-9724-C1DDB0F7A94B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypes", "DataTypes\DataTypes.csproj", "{8E07C35A-6F19-403F-9724-C1DDB0F7A94B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeCasting", "TypeCasting\TypeCasting.csproj", "{883EFD28-E66A-4026-8291-4F8DAB811074}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{8E07C35A-6F19-403F-9724-C1DDB0F7A94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E07C35A-6F19-403F-9724-C1DDB0F7A94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E07C35A-6F19-403F-9724-C1DDB0F7A94B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{883EFD28-E66A-4026-8291-4F8DAB811074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883EFD28-E66A-4026-8291-4F8DAB811074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883EFD28-E66A-4026-8291-4F8DAB811074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883EFD28-E66A-4026-8291-4F8DAB811074}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
