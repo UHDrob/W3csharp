@@ -1,0 +1,13 @@
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Syntax\bin\Debug\netcoreapp3.1\Syntax.exe
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Syntax\bin\Debug\netcoreapp3.1\Syntax.deps.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Syntax\bin\Debug\netcoreapp3.1\Syntax.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Syntax\bin\Debug\netcoreapp3.1\Syntax.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Syntax\bin\Debug\netcoreapp3.1\Syntax.dll
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Syntax\bin\Debug\netcoreapp3.1\Syntax.pdb
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Syntax\obj\Debug\netcoreapp3.1\Syntax.csprojAssemblyReference.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Syntax\obj\Debug\netcoreapp3.1\Syntax.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Syntax\obj\Debug\netcoreapp3.1\Syntax.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Syntax\obj\Debug\netcoreapp3.1\Syntax.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Syntax\obj\Debug\netcoreapp3.1\Syntax.dll
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Syntax\obj\Debug\netcoreapp3.1\Syntax.pdb
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Syntax\obj\Debug\netcoreapp3.1\Syntax.genruntimeconfig.cache
