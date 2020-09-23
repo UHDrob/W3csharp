@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Rob77\\Source\\Repos\\W3csharp\\test001\\test001\\test001.csproj": {}
+    "D:\\Users\\Rob77\\Source\\Repos\\W3csharp\\Tutorial\\GetStarted\\GetStarted.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Rob77\\Source\\Repos\\W3csharp\\test001\\test001\\test001.csproj": {
+    "D:\\Users\\Rob77\\Source\\Repos\\W3csharp\\Tutorial\\GetStarted\\GetStarted.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Rob77\\Source\\Repos\\W3csharp\\test001\\test001\\test001.csproj",
-        "projectName": "test001",
-        "projectPath": "D:\\Users\\Rob77\\Source\\Repos\\W3csharp\\test001\\test001\\test001.csproj",
+        "projectUniqueName": "D:\\Users\\Rob77\\Source\\Repos\\W3csharp\\Tutorial\\GetStarted\\GetStarted.csproj",
+        "projectName": "GetStarted",
+        "projectPath": "D:\\Users\\Rob77\\Source\\Repos\\W3csharp\\Tutorial\\GetStarted\\GetStarted.csproj",
         "packagesPath": "C:\\Users\\Rob77\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Rob77\\Source\\Repos\\W3csharp\\test001\\test001\\obj\\",
+        "outputPath": "D:\\Users\\Rob77\\Source\\Repos\\W3csharp\\Tutorial\\GetStarted\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rob77\\AppData\\Roaming\\NuGet\\NuGet.Config",

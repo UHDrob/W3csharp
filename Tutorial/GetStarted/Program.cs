@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace test001
+namespace GetStarted
 {
    class Program
    {
       static void Main(string[] args)
       {
-         Console.WriteLine("Hello W3!");
+         Console.WriteLine("Hello W3 school!");
       }
    }
 }
