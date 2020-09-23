@@ -1,0 +1,13 @@
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.exe
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.deps.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.dll
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.pdb
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csprojAssemblyReference.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.dll
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.pdb
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.genruntimeconfig.cache
