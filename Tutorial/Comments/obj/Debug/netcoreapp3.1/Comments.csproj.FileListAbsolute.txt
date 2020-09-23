@@ -1,0 +1,13 @@
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Comments\bin\Debug\netcoreapp3.1\Comments.exe
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Comments\bin\Debug\netcoreapp3.1\Comments.deps.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Comments\bin\Debug\netcoreapp3.1\Comments.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Comments\bin\Debug\netcoreapp3.1\Comments.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Comments\bin\Debug\netcoreapp3.1\Comments.dll
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Comments\bin\Debug\netcoreapp3.1\Comments.pdb
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Comments\obj\Debug\netcoreapp3.1\Comments.csprojAssemblyReference.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Comments\obj\Debug\netcoreapp3.1\Comments.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Comments\obj\Debug\netcoreapp3.1\Comments.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Comments\obj\Debug\netcoreapp3.1\Comments.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Comments\obj\Debug\netcoreapp3.1\Comments.dll
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Comments\obj\Debug\netcoreapp3.1\Comments.pdb
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Comments\obj\Debug\netcoreapp3.1\Comments.genruntimeconfig.cache
