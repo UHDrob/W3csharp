@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypes", "DataTypes\Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeCasting", "TypeCasting\TypeCasting.csproj", "{883EFD28-E66A-4026-8291-4F8DAB811074}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInput", "UserInput\UserInput.csproj", "{EDC03D56-9FA0-42BC-9D36-4CB9372648DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{883EFD28-E66A-4026-8291-4F8DAB811074}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{883EFD28-E66A-4026-8291-4F8DAB811074}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{883EFD28-E66A-4026-8291-4F8DAB811074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC03D56-9FA0-42BC-9D36-4CB9372648DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC03D56-9FA0-42BC-9D36-4CB9372648DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC03D56-9FA0-42BC-9D36-4CB9372648DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC03D56-9FA0-42BC-9D36-4CB9372648DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

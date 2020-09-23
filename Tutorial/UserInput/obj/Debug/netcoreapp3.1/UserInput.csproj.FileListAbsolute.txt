@@ -1,0 +1,13 @@
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\UserInput\bin\Debug\netcoreapp3.1\UserInput.exe
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\UserInput\bin\Debug\netcoreapp3.1\UserInput.deps.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\UserInput\bin\Debug\netcoreapp3.1\UserInput.dll
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\UserInput\bin\Debug\netcoreapp3.1\UserInput.pdb
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\UserInput\obj\Debug\netcoreapp3.1\UserInput.csprojAssemblyReference.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\UserInput\obj\Debug\netcoreapp3.1\UserInput.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\UserInput\obj\Debug\netcoreapp3.1\UserInput.dll
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\UserInput\obj\Debug\netcoreapp3.1\UserInput.pdb
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\UserInput\obj\Debug\netcoreapp3.1\UserInput.genruntimeconfig.cache
