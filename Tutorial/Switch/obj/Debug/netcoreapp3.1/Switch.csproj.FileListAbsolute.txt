@@ -1,0 +1,13 @@
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Switch\bin\Debug\netcoreapp3.1\Switch.exe
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Switch\bin\Debug\netcoreapp3.1\Switch.deps.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Switch\bin\Debug\netcoreapp3.1\Switch.dll
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Switch\bin\Debug\netcoreapp3.1\Switch.pdb
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Switch\obj\Debug\netcoreapp3.1\Switch.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Switch\obj\Debug\netcoreapp3.1\Switch.dll
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Switch\obj\Debug\netcoreapp3.1\Switch.pdb
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Switch\obj\Debug\netcoreapp3.1\Switch.genruntimeconfig.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Switch\obj\Debug\netcoreapp3.1\Switch.csprojAssemblyReference.cache

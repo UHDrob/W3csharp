@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Booleans", "Booleans\Boolea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse", "IfElse\IfElse.csproj", "{794E4EE6-5BE2-43F9-A034-F40BA89AEB39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{6AAD825D-5294-4312-88FE-C6C380A94200}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{794E4EE6-5BE2-43F9-A034-F40BA89AEB39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{794E4EE6-5BE2-43F9-A034-F40BA89AEB39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{794E4EE6-5BE2-43F9-A034-F40BA89AEB39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AAD825D-5294-4312-88FE-C6C380A94200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AAD825D-5294-4312-88FE-C6C380A94200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AAD825D-5294-4312-88FE-C6C380A94200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AAD825D-5294-4312-88FE-C6C380A94200}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

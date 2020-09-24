@@ -1,0 +1,12 @@
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\IfElse\bin\Debug\netcoreapp3.1\IfElse.exe
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\IfElse\bin\Debug\netcoreapp3.1\IfElse.deps.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\IfElse\bin\Debug\netcoreapp3.1\IfElse.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\IfElse\bin\Debug\netcoreapp3.1\IfElse.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\IfElse\bin\Debug\netcoreapp3.1\IfElse.dll
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\IfElse\bin\Debug\netcoreapp3.1\IfElse.pdb
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\IfElse\obj\Debug\netcoreapp3.1\IfElse.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\IfElse\obj\Debug\netcoreapp3.1\IfElse.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\IfElse\obj\Debug\netcoreapp3.1\IfElse.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\IfElse\obj\Debug\netcoreapp3.1\IfElse.dll
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\IfElse\obj\Debug\netcoreapp3.1\IfElse.pdb
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\IfElse\obj\Debug\netcoreapp3.1\IfElse.genruntimeconfig.cache
