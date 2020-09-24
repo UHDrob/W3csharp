@@ -1,0 +1,13 @@
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+D:\Users\Rob77\Source\Repos\W3csharp\Tutorial\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache
