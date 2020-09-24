@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Math
+namespace Booleans
 {
    class Program
    {
       static void Main(string[] args)
       {
-         Console.WriteLine("Math World!");
+         Console.WriteLine("Booleans World!");
       }
    }
 }
